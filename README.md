@@ -3,7 +3,7 @@
 ## Aim: 
 To perform a study on Socket Programming
 ## NAME:D.BALA SUBRAMANYAM
-## RDG.NO:212224040062
+## REG.NO:212224040062
 
 ## Introduction:
 
